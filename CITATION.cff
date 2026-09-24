@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the OptiSAR-Net++ paper."
+title: "OptiSAR-Net++"
+type: software
+authors:
+  - family-names: Tang
+    given-names: Xiaoyu
+  - family-names: Dong
+    given-names: Jun
+  - family-names: Cheng
+    given-names: Jintao
+  - family-names: Fan
+    given-names: Rui
+repository-code: "https://github.com/JunDong-dev/OptiSAR-Net-PlusPlus"
+url: "https://arxiv.org/abs/2603.24876"
+license: AGPL-3.0
+version: 0.1.0
+date-released: 2026-09-20
+preferred-citation:
+  type: article
+  title: "OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding"
+  authors:
+    - family-names: Tang
+      given-names: Xiaoyu
+    - family-names: Dong
+      given-names: Jun
+    - family-names: Cheng
+      given-names: Jintao
+    - family-names: Fan
+      given-names: Rui
+  journal: "arXiv preprint arXiv:2603.24876"
+  year: 2026

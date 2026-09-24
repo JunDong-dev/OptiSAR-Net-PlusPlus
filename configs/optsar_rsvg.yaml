@@ -1,0 +1,23 @@
+# Change `path` or pass --dataset-root to scripts/train.py.
+path: datasets/OptSAR-RSVG
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: optical vehicle
+  1: optical bridge
+  2: optical crossroad
+  3: optical T junction
+  4: optical ground track field
+  5: optical baseball diamond
+  6: optical swimming pool
+  7: optical tennis court
+  8: optical parking lot
+  9: optical basketball court
+  10: optical storage tank
+  11: optical ship
+  12: optical airplane
+  13: optical harbor
+  14: sar transmission tower
+  15: sar ship
