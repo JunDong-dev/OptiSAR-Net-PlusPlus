@@ -6,8 +6,10 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2603.24876"><img src="https://img.shields.io/badge/arXiv-2603.24876-b31b1b.svg" alt="Paper"></a>
-  <a href="https://pan.baidu.com/s/1dkyKU-KJmu25xuAYAVyh1g?pwd=6666"><img src="https://img.shields.io/badge/Dataset-OptSAR--RSVG-2ea44f.svg" alt="Dataset"></a>
-  <a href="https://drive.google.com/drive/folders/1xBoYVcA295k3Yox-WCCHtxVhpFZ3ff_V?usp=share_link"><img src="https://img.shields.io/badge/Weights-Google_Drive-f9ab00.svg" alt="Weights"></a>
+  <a href="https://huggingface.co/datasets/JunDong-dev/OptSAR-RSVG"><img src="https://img.shields.io/badge/Dataset-OptSAR--RSVG-2ea44f.svg" alt="Dataset"></a>
+  <a href="https://huggingface.co/JunDong-dev/OptiSAR-Net-PlusPlus"><img src="https://img.shields.io/badge/Weights-Hugging_Face-f9ab00.svg" alt="Weights"></a>
+  <a href="https://pan.baidu.com/s/1dkyKU-KJmu25xuAYAVyh1g?pwd=6666"><img src="https://img.shields.io/badge/Dataset--Mirror-Baidu_Netdisk-blue.svg" alt="Dataset Mirror"></a>
+  <a href="https://drive.google.com/drive/folders/1xBoYVcA295k3Yox-WCCHtxVhpFZ3ff_V?usp=share_link"><img src="https://img.shields.io/badge/Weights--Mirror-Google_Drive-orange.svg" alt="Weights Mirror"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue.svg" alt="License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776ab.svg" alt="Python"></a>
 </p>
@@ -34,8 +36,8 @@ OptiSAR-Net++ addresses cross-domain remote sensing visual grounding (CD-RSVG) w
 | Release | Status | Access |
 |:--|:--:|:--|
 | **Model code** | ✅ Available | [GitHub repository](https://github.com/JunDong-dev/OptiSAR-Net-PlusPlus) |
-| **OptSAR-RSVG dataset** | ✅ Available | [Baidu Netdisk](https://pan.baidu.com/s/1dkyKU-KJmu25xuAYAVyh1g?pwd=6666) · extraction code: `6666` |
-| **Model weights** | ✅ Available | [Google Drive](https://drive.google.com/drive/folders/1xBoYVcA295k3Yox-WCCHtxVhpFZ3ff_V?usp=share_link) |
+| **OptSAR-RSVG dataset** | ✅ Available | [Hugging Face](https://huggingface.co/datasets/JunDong-dev/OptSAR-RSVG) · [Baidu Netdisk](https://pan.baidu.com/s/1dkyKU-KJmu25xuAYAVyh1g?pwd=6666) (extraction code: `6666`) |
+| **Model weights** | ✅ Available | [Hugging Face](https://huggingface.co/JunDong-dev/OptiSAR-Net-PlusPlus) · [Google Drive](https://drive.google.com/drive/folders/1xBoYVcA295k3Yox-WCCHtxVhpFZ3ff_V?usp=share_link) |
 
 ## Benchmark results
 
@@ -155,7 +157,7 @@ OptSAR-RSVG contains 46,825 images and 90,148 image-text-box annotations in 16 c
 
 ### Dataset download
 
-- **OptSAR-RSVG dataset:** [Baidu Netdisk](https://pan.baidu.com/s/1dkyKU-KJmu25xuAYAVyh1g?pwd=6666) (extraction code: `6666`)
+- **OptSAR-RSVG dataset:** [Hugging Face](https://huggingface.co/datasets/JunDong-dev/OptSAR-RSVG) (recommended) · [Baidu Netdisk](https://pan.baidu.com/s/1dkyKU-KJmu25xuAYAVyh1g?pwd=6666) (mirror, extraction code: `6666`)
 
 
 Please retain this directory layout after downloading:
